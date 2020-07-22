@@ -1,0 +1,117 @@
+[03-Jul-2020 05:16:59 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 90
+[03-Jul-2020 05:19:13 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 90
+[03-Jul-2020 11:34:53 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 90
+[08-Jul-2020 04:35:31 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 90
+[13-Jul-2020 07:14:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[13-Jul-2020 07:16:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[13-Jul-2020 07:17:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[13-Jul-2020 07:23:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[13-Jul-2020 09:26:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[13-Jul-2020 09:27:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[13-Jul-2020 09:29:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[13-Jul-2020 10:05:15 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 95
+[14-Jul-2020 03:32:53 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 95
+[14-Jul-2020 04:18:41 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:19:45 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:20:02 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:20:16 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:22:15 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:22:35 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:22:59 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:23:02 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 04:23:21 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/admin.php on line 5
+[14-Jul-2020 11:21:34 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[14-Jul-2020 11:21:39 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[16-Jul-2020 08:06:41 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[16-Jul-2020 08:12:46 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[16-Jul-2020 08:13:06 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[16-Jul-2020 08:17:09 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[16-Jul-2020 08:21:34 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[16-Jul-2020 08:21:49 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[16-Jul-2020 08:21:49 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 79
+[21-Jul-2020 05:08:12 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 4
+[21-Jul-2020 05:08:12 UTC] PHP Notice:  Undefined index: Admin in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 79
+[21-Jul-2020 05:26:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:26:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:27:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:27:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:27:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:28:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:28:41 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:30:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:33:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:33:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:34:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:36:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:36:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:36:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:37:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:37:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:37:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:37:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:37:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:39:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:42:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:42:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:42:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:43:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:43:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:43:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:43:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:43:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:43:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:44:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:44:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:44:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:44:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:44:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:46:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:46:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 05:47:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 06:21:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 09:25:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:05:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:28:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:34:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:34:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:34:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:34:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:34:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:34:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:35:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:35:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:35:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:35:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:35:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:36:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:36:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:36:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:36:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:37:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:37:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3
+[21-Jul-2020 10:37:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/webcodice/public_html/samples/karan/Desktopversion/Admin/welcomeadmin.php on line 3

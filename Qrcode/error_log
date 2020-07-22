@@ -1,0 +1,28 @@
+[07-Jul-2020 06:05:41 UTC] PHP Warning:  readfile(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[07-Jul-2020 06:05:41 UTC] PHP Warning:  readfile(http://developerravi.com/practice/day2/qrmeravi1622693396.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[07-Jul-2020 06:05:44 UTC] PHP Warning:  readfile(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[07-Jul-2020 06:05:44 UTC] PHP Warning:  readfile(http://developerravi.com/practice/day2/qrmeravi1622693396.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[09-Jul-2020 03:35:22 UTC] PHP Warning:  readfile(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[09-Jul-2020 03:35:22 UTC] PHP Warning:  readfile(http://developerravi.com/practice/day2/qrmeravi1704495778.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[10-Jul-2020 04:28:41 UTC] PHP Warning:  readfile(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[10-Jul-2020 04:28:41 UTC] PHP Warning:  readfile(http://developerravi.com/practice/day2/qrmeravi60907668.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/download.php on line 8
+[16-Jul-2020 04:08:40 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:40 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:40 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:40 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:40 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:40 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:40 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:48 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:48 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:48 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:48 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:48 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:48 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:08:48 UTC] PHP Notice:  Undefined index: teacher in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/showallqr.php on line 251
+[16-Jul-2020 04:09:40 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/teachershowownqrcode.php on line 226
+[16-Jul-2020 04:10:10 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/teachershowownqrcode.php on line 226
+[16-Jul-2020 04:13:31 UTC] PHP Notice:  Undefined index: TName in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/index.php on line 58
+[16-Jul-2020 04:13:47 UTC] PHP Notice:  Undefined index: TName in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/teachershowownqrcode.php on line 219
+[16-Jul-2020 04:13:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/teachershowownqrcode.php on line 226
+[16-Jul-2020 04:14:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/webcodice/public_html/samples/karan/Desktopversion/Qrcode/teachershowownqrcode.php on line 226

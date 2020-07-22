@@ -1,0 +1,81 @@
+[02-Jul-2020 11:35:01 UTC] PHP Notice:  Array to string conversion in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 12
+[02-Jul-2020 11:35:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 127
+[02-Jul-2020 11:35:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 128
+[02-Jul-2020 11:39:17 UTC] PHP Notice:  Array to string conversion in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 12
+[02-Jul-2020 11:39:17 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 127
+[02-Jul-2020 11:39:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 128
+[02-Jul-2020 11:43:38 UTC] PHP Notice:  Array to string conversion in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 12
+[02-Jul-2020 11:43:38 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 127
+[02-Jul-2020 11:43:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 128
+[03-Jul-2020 06:07:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 131
+[03-Jul-2020 06:07:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[03-Jul-2020 06:08:34 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 131
+[03-Jul-2020 06:08:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[03-Jul-2020 06:09:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 131
+[03-Jul-2020 06:09:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[03-Jul-2020 11:41:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 131
+[03-Jul-2020 11:41:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[09-Jul-2020 06:00:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[09-Jul-2020 06:00:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 133
+[10-Jul-2020 05:25:44 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[10-Jul-2020 05:25:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 133
+[10-Jul-2020 05:26:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[10-Jul-2020 05:26:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 133
+[10-Jul-2020 09:56:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 132
+[10-Jul-2020 09:56:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 133
+[13-Jul-2020 07:16:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Class/selectclass.php on line 41
+[13-Jul-2020 07:16:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 5
+[13-Jul-2020 09:27:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 5
+[13-Jul-2020 09:27:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/webcodice/public_html/samples/karan/Desktopversion/Class/selectclass.php on line 41
+[13-Jul-2020 11:39:42 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 127
+[14-Jul-2020 06:47:09 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 136
+[14-Jul-2020 06:47:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 137
+[14-Jul-2020 11:22:25 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Class/selectclass.php on line 8
+[14-Jul-2020 11:58:47 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 134
+[14-Jul-2020 11:58:56 UTC] PHP Notice:  Undefined index: c_subject in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 18
+[14-Jul-2020 11:58:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 18
+[14-Jul-2020 11:58:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 26
+[14-Jul-2020 11:58:56 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 35
+[14-Jul-2020 11:58:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 36
+[14-Jul-2020 11:59:02 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 134
+[15-Jul-2020 02:50:22 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 134
+[15-Jul-2020 03:00:17 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 135
+[15-Jul-2020 03:28:03 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 135
+[15-Jul-2020 03:28:50 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 135
+[15-Jul-2020 03:28:56 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 135
+[15-Jul-2020 04:00:07 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 135
+[15-Jul-2020 04:14:39 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 137
+[15-Jul-2020 04:14:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 138
+[15-Jul-2020 04:14:45 UTC] PHP Notice:  Undefined index: c_subject in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 20
+[15-Jul-2020 04:14:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 20
+[15-Jul-2020 04:14:45 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 137
+[15-Jul-2020 04:14:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 138
+[15-Jul-2020 04:28:40 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 137
+[15-Jul-2020 04:28:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 138
+[16-Jul-2020 08:07:05 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Class/selectclass.php on line 6
+[16-Jul-2020 08:07:44 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Class/selectclass.php on line 6
+[20-Jul-2020 11:10:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 111
+[20-Jul-2020 11:10:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 112
+[21-Jul-2020 04:09:09 UTC] PHP Notice:  Undefined index: c_subject in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 81
+[21-Jul-2020 04:09:09 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 81
+[21-Jul-2020 04:09:09 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 111
+[21-Jul-2020 04:09:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 112
+[21-Jul-2020 04:10:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 111
+[21-Jul-2020 04:10:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 112
+[21-Jul-2020 04:10:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 111
+[21-Jul-2020 04:10:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 112
+[21-Jul-2020 04:11:01 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 139
+[21-Jul-2020 04:11:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 104
+[21-Jul-2020 04:11:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 113
+[21-Jul-2020 04:11:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 114
+[21-Jul-2020 04:13:11 UTC] PHP Notice:  Undefined index: isLogin in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 3
+[21-Jul-2020 04:29:52 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 139
+[21-Jul-2020 04:29:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 104
+[21-Jul-2020 04:29:58 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 113
+[21-Jul-2020 04:29:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 114
+[21-Jul-2020 04:30:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 111
+[21-Jul-2020 04:30:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/class.php on line 112
+[21-Jul-2020 11:34:28 UTC] PHP Notice:  Undefined index: c_subject[] in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 139
+[21-Jul-2020 11:34:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 104
+[21-Jul-2020 11:34:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 113
+[21-Jul-2020 11:34:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/webcodice/public_html/samples/karan/Desktopversion/Class/updateclass.php on line 114

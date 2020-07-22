@@ -1,0 +1,67 @@
+@font-face {
+  font-family: hobo std;
+  src: url(../fonts/HoboStd.otf);
+}
+
+.col-lg-12.cent {
+  margin-top: 8%;
+}
+
+/*responsive*/
+
+@media (max-width: 1366px) {
+}
+
+@media (max-width: 1280px) {
+  .col-lg-12.cent {
+    margin-top: 50%;
+  }
+}
+
+@media (max-width: 1080px) {
+}
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 991px) {
+}
+
+@media (max-width: 768px) {
+  .col-lg-12.cent {
+    margin-top: 50%;
+  }
+}
+
+@media (max-width: 736px) {
+  .col-lg-12.cent {
+    margin-top: 60%;
+  }
+}
+
+@media (max-width: 640px) {
+}
+
+@media (max-width: 568px) {
+}
+
+@media (max-width: 480px) {
+}
+
+@media (max-width: 440px) {
+}
+
+@media (max-width: 414px) {
+}
+
+@media (max-width: 384px) {
+}
+
+@media (max-width: 375px) {
+}
+
+@media (max-width: 360px) {
+  .col-lg-12.cent {
+    margin-top: 82%;
+  }
+}
